@@ -59,7 +59,7 @@ const About: React.FC = () => {
             />
 
             <p className="text-gray-400 mb-6">
-              I'm a pre-final year Computer Science student at MNNIT Allahabad,
+              I'm a final year Computer Science student at MNNIT Allahabad,
               passionate about building meaningful digital experiences. I
               specialize in full-stack web development using the MERN stack, and
               love creating responsive, scalable applications that solve
